@@ -20,5 +20,14 @@ Skin cancer and related conditions can be hard to diagnose visually. This projec
 ---
 
 ## 📁 Project Structure  
+Skin-disease-detection/
+├── README.md
+├── requirements.txt
+├── src/
+├── data/
+├── notebooks/
+├── models/
+├── results/
+
 
 
