@@ -16,7 +16,7 @@ Skin cancer and related conditions can be hard to diagnose visually. This projec
 - NumPy, Pandas  
 - Matplotlib / Seaborn for visualizations  
 - Jupyter Notebook
-
+```
 
 ```
 ## 📁 Project Structure
